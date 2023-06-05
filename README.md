@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/bertrandlengagne/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/bertrandlengagne/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=1&branchName=code-workflow)
+
 <header>
 
 <!--
